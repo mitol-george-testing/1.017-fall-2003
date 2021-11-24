@@ -1,0 +1,38 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Engineering",
+      "Computer Science",
+      "Data Mining"
+    ],
+    [
+      "Mathematics",
+      "Probability and Statistics"
+    ],
+    [
+      "Engineering",
+      "Environmental Engineering"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "da801f24-c50f-07cb-d05d-77708696f98f"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Computing and Data Analysis for Environmental Applications",
+  "course_description": "This subject is a computer-oriented introduction to probability and data analysis. It is designed to give students the knowledge and practical experience they need to interpret lab and field data. Basic probability concepts are introduced at the outset because they provide a systematic way to describe uncertainty. They form the basis for the analysis of quantitative data in science and engineering. The MATLAB\u00ae programming language is used to perform virtual experiments and to analyze real-world data sets, many downloaded from the web. Programming applications include display and assessment of data sets, investigation of hypotheses, and identification of possible casual relationships between variables. This is the first semester that two courses, Computing and Data Analysis for Environmental Applications (1.017) and Uncertainty in Engineering (1.010),\u00a0are being\u00a0jointly offered\u00a0and taught as a single course.\n",
+  "department_numbers": [
+    "1"
+  ],
+  "extra_course_numbers": "1.010",
+  "primary_course_number": "1.017",
+  "learning_resource_types": [
+    "Problem Sets with Solutions",
+    "Exams with Solutions",
+    "Lecture Notes",
+    "Programming Assignments with Examples"
+  ],
+  "title": "Course Metadata"
+}
